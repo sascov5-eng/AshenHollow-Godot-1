@@ -17,3 +17,6 @@ move_left={"deadzone":0.5}
 move_right={"deadzone":0.5}
 jump={"deadzone":0.5}
 attack={"deadzone":0.5}
+
+[android]
+package/unique_name="com.ashenhollow.game"
